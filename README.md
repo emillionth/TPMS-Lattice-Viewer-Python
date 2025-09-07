@@ -1,4 +1,4 @@
-# TPMS-Creator
+# TPMS lattice viewer done in python
 WIP
 
 To-Do
